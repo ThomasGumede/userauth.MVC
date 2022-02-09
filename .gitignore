@@ -1,0 +1,7 @@
+.vscode
+bin
+obj
+wwwroot/lib
+Data/20220209113132_initial.cs
+Data/20220209113132_initial.Designer.cs
+Data/ApplicationDbContextModelSnapshot.cs
